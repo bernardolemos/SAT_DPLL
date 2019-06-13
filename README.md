@@ -3,9 +3,9 @@
 - [Davis–Putnam–Logemann–Loveland (DPLL) algorithm](https://en.wikipedia.org/wiki/DPLL_algorithm)
 - [Boolean satisfiability problem (SAT)](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem#Algorithms_for_solving_SAT)
 
-The _Satisfiability problem (SAT)_ consists in finding the values (_TRUE_ or _FALSE_) of a formula's variable such that the formula is satisfiable (_TRUE_).
+The _**Satisfiability problem (SAT)**_ consists in finding the values (_TRUE_ or _FALSE_) of a formula's variables such that the formula is satisfiable (_TRUE_).
 
-The _SAT_ problem in **NP-Complete**.
+The _**SAT**_ problem in **NP-Complete**.
 
 
 
